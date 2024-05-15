@@ -1,6 +1,6 @@
-### Prazer, Gabriel
+### Prazer, eu sou o Gabriel!
 
-##### Sobre o Gabriel
+###### Sobre o Gabriel
 Estudante de desenvlvimento JavaScript.
 
 ### Detalhes
