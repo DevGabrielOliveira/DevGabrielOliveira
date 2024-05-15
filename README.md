@@ -8,3 +8,6 @@ Estudante de desenvlvimento JavaScript.
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevGabrielOliveira&repo=Meu-Linktree&theme=dark)](https://github.com/anuranghazra/github-readme-stats)
+
+### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/top-langs/?username=DevGabrielOliveira&rlayout=compact)](https://github.com/anuranghazra/github-readme-stats)
